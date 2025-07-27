@@ -1,0 +1,13 @@
+pyupbit
+pandas>=2.2,<3
+pandas-ta
+google-generativeai
+portalocker
+requests
+streamlit
+plotly
+python-dotenv
+numpy>=1.24,<2
+json5
+decimal
+tqdm
