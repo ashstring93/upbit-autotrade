@@ -1,0 +1,29 @@
+# Upbit API 통신 및 데이터 조회
+pyupbit
+
+# 데이터 분석 및 처리 (데이터프레임)
+pandas
+
+# 다양한 기술적 지표 계산
+pandas-ta==0.3.14b0
+
+# .env 파일에서 환경 변수(API 키) 로드
+python-dotenv
+
+# Google Gemini AI 모델 사용
+google-generativeai
+
+# 안정적인 주기 실행을 위한 스케줄러
+apscheduler
+
+# 웹 기반 시각화 대시보드
+streamlit
+
+# 대시보드 내 인터랙티브 차트 생성
+plotly
+
+# pyupbit이 의존하는 라이브러리
+requests
+
+# pandas-ta와의 호환성을 위한 numpy 버전 고정
+numpy==1.26.4
